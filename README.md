@@ -1,6 +1,6 @@
 # Text Editor GUI Application
 
-## This is a simple text editor that has the following options:
+## This is a simple text editor GUI application Made with C++ and Qt. <br />that has the following options:
 (to be applied to any .txt file)
 1. Add new text to the end of the file
 2. Display the content of the file
